@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ABOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "TheVoideSMP.aternos.me",
+    "ip": "TheVoideSMP.aternos.me:38980",
     "port": 38980,
     "version": "",
     "try-creative": false
